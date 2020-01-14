@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c67da132a7df463accb567117f7ccd9c",
+    "revision": "0ab78ed82ea69c741e10a54985b4f474",
     "url": "/contactmanager/index.html"
   },
   {
-    "revision": "fb9fda5b443a3eb74eb2",
+    "revision": "4aa101b3351543db813d",
     "url": "/contactmanager/static/css/2.d88a60dc.chunk.css"
   },
   {
-    "revision": "41e1612ea44c75b5b1bb",
+    "revision": "bc8e7327b684b591c56d",
     "url": "/contactmanager/static/css/main.cf08b432.chunk.css"
   },
   {
-    "revision": "fb9fda5b443a3eb74eb2",
-    "url": "/contactmanager/static/js/2.4ba29e5b.chunk.js"
+    "revision": "4aa101b3351543db813d",
+    "url": "/contactmanager/static/js/2.4e6ca795.chunk.js"
   },
   {
     "revision": "21294721c532847ffdd0953d624a66c8",
-    "url": "/contactmanager/static/js/2.4ba29e5b.chunk.js.LICENSE"
+    "url": "/contactmanager/static/js/2.4e6ca795.chunk.js.LICENSE"
   },
   {
-    "revision": "41e1612ea44c75b5b1bb",
-    "url": "/contactmanager/static/js/main.785e7f02.chunk.js"
+    "revision": "bc8e7327b684b591c56d",
+    "url": "/contactmanager/static/js/main.8242ac58.chunk.js"
   },
   {
     "revision": "168a4be25a5f18ccf386",
