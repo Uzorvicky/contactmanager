@@ -63,7 +63,7 @@ class Contact extends Component {
                 <ul className="collection">
                   <li className="collection-item">{email}</li>
                   <li className="collection-item">{phone}</li>
-                  <li className="collection-item">{address}</li>
+                  <li className="collection-item">{address.street}</li>
                 </ul>
               ) : null}
             </div>
